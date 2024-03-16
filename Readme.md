@@ -2,6 +2,8 @@
 
 Follow these steps to set up the project locally on your system.
 
+Video Link: [https://www.youtube.com/watch?v=IJaoWjGxVeE](Demo of the project)
+
 **Check Database Configuration**: Go to pgClinet.js, and ensure that the databse configs match your local database settings.
 
 ### Installation
