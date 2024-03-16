@@ -11,7 +11,6 @@ const client = require("../pgClient");
 const getAllStudents = async () => {
   const text = "SELECT * FROM students";
   const res = await client.query(text);
-  console.log(res.rows);
   return res.rows;
 };
 

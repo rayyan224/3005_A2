@@ -1,5 +1,6 @@
 const api = require("./api");
 
 (async () => {
-  await api.getAllStudents();
+  await api.deleteStudent(3);
+  console.log("Done!");
 })();
